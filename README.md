@@ -18,5 +18,8 @@ The Ontario boundary was taken from [this public dataset](https://public.opendat
 
 ## Notes
 
-You may notice a few bubbles around the world map in strange places... (a winning ticket sold in NEW ZEALAND!?!?)
-To convert the address data into lat/long coordinates, I utilized the [Bing Maps API](https://www.microsoft.com/en-us/maps/choose-your-bing-maps-api) and batch geocoded all of the addresses. The service was pretty accurate and got the corrent location for almost all of the addresses, however there seems to be a few stragglers which you can find on the map if you zoom out. I could manually geocode the incorrect locations but I'll leave them for now. Just know that all the tickets sold *within the Ontario boundary* are actually correct!
+You may notice a few bubbles around the world map in strange places... (a winning ticket sold in NEW ZEALAND!?!?).
+
+To convert the address data into lat/long coordinates, I utilized the [Bing Maps API](https://www.microsoft.com/en-us/maps/choose-your-bing-maps-api) and batch geocoded all of the addresses. The service was pretty accurate and got the corrent location for almost all of the addresses, however there seems to be a few stragglers which you can find on the map if you zoom out. I could manually geocode the incorrect locations but I'll leave them for now. 
+
+Just know that all the tickets sold *within the Ontario boundary* are actually correct!
