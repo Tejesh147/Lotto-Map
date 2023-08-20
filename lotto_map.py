@@ -98,6 +98,7 @@ def main():
     
     st.write('_Source: Ontario Lottery and Gaming Corporation_')
     st.components.v1.html(lotto_map_html, width=1300, height=700)
+    st.caption("Check out the code [here](https://github.com/Tejesh147/Lotto-Map)!")
     st.write("##")
     
     st.header("❓ What does this map show?")
@@ -112,6 +113,7 @@ def main():
         Enjoy the visualization :)
         """
     )
+    
     
 
 
