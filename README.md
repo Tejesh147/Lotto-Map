@@ -2,7 +2,7 @@
 
 This project is a web application that visualizes the locations of OLG lottery winners in the province of Ontario, Canada. It allows users to explore the distribution of winning tickets, the prize amounts, and additional information about the winning locations.
 
-[VIEW THE PROJECT HERE!](http://lotto-map.onrender.com) (Note, it might take up to 30 secs for render to load the app)
+[VIEW THE PROJECT HERE!](http://lotto-map.onrender.com) (Note, it might around 30 secs to load the app)
 
 ## Features
 
